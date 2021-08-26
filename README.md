@@ -1,1 +1,1 @@
-[![asdfgh5889's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=asdfgh5889&country_code=uzbekistan)](https://github.com/Muhammadsher/github-readme-ranking)
+[![asdfgh5889's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=asdfgh5889&country_code=uzbekistan&show_private=true)](https://github.com/Muhammadsher/github-readme-ranking)
